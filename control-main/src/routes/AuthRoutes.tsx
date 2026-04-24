@@ -9,13 +9,13 @@ export default function AuthRoutes() {
     return (
         <Stack.Navigator>
             <Stack.Screen name="Login" component={LoginScreen} options={{
-                title: ""
+                title: "efwer"
             }} />
             <Stack.Screen name="Cadastro" component={RegisterScreen} options={{
-                title: ""
+                title: "jdjsjkd"
             }} />
             <Stack.Screen name="Sobre" component={AboutScreen} options={{
-                title: ""
+                title: "bshvys"
             }} />
         </Stack.Navigator>
     );
